@@ -1,0 +1,6 @@
+com\cheapchips\controller\LoginController.class
+com\cheapchips\dao\ProductDao.class
+com\cheapchips\model\Lenevo.class
+com\cheapchips\controller\ProductController.class
+com\cheapchips\model\Product.class
+com\cheapchips\model\Dell.class
